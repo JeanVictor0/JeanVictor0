@@ -1,9 +1,3 @@
-### Ola, tudo bem?
-
-- 🔭 Atualmente procuro estagio
-- 🌱 Atualmente estudo java e javascript back end
-- 👯 Contato: jeanvdsroque@gmail.com
-
 <div align="center">
   <a href="https://github.com/JeanVictor0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeanVictor0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -21,6 +15,11 @@
 <div> 
   <a href="https://www.linkedin.com/in/jean-victor-dos-santos-roque-b53b84236/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JeanVictor0/JeanVictor0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  
+- 🔭 Atualmente procuro estagio
+- 🌱 Atualmente estudo java e javascript back end
+- 👯 Contato: jeanvdsroque@gmail.com
