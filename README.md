@@ -1,7 +1,7 @@
 
 ## Oi sou Jean e seja bem vindo ao meu github
 
-[Meus projetos](https://github.com/JeanVictor0/portifolio) : Espero que gostem
+[Meus projetos](https://github.com/JeanVictor0/portifolio) - Espero que gostem
 
 <div align="center">
   <a href="https://github.com/JeanVictor0">
