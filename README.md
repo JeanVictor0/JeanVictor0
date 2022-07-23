@@ -23,7 +23,7 @@
  
 </div>
   
-  
-- 🔭 Atualmente procuro estagio
+- Meus projetos: https://github.com/JeanVictor0/portifolio
+- 🔭 Atualmente procuro estagio ou vaga de junior
 - 🌱 Atualmente estudo java e javascript back end
 - 👯 Contato: jeanvdsroque@gmail.com
