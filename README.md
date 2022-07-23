@@ -1,10 +1,7 @@
 
 ## Oi sou Jean e seja bem vindo ao meu github
 
-- Meus projetos: https://github.com/JeanVictor0/portifolio
-- 🔭 Atualmente procuro estagio ou vaga de junior
-- 🌱 Atualmente estudo java e javascript back end
-- 👯 Contato: jeanvdsroque@gmail.com
+Meus projetos: https://github.com/JeanVictor0/portifolio
 
 <div align="center">
   <a href="https://github.com/JeanVictor0">
@@ -28,3 +25,6 @@
  
 </div>
  
+- 🔭 Atualmente procuro estagio ou vaga de junior
+- 🌱 Atualmente estudo java e javascript back end
+- 👯 Contato: jeanvdsroque@gmail.com
