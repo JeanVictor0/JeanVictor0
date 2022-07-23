@@ -1,5 +1,10 @@
 
-## Oiii sou Jean e seja bem vindo ao meu github
+## Oi sou Jean e seja bem vindo ao meu github
+
+- Meus projetos: https://github.com/JeanVictor0/portifolio
+- 🔭 Atualmente procuro estagio ou vaga de junior
+- 🌱 Atualmente estudo java e javascript back end
+- 👯 Contato: jeanvdsroque@gmail.com
 
 <div align="center">
   <a href="https://github.com/JeanVictor0">
@@ -22,8 +27,4 @@
   ![Snake animation](https://github.com/JeanVictor0/JeanVictor0/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-- Meus projetos: https://github.com/JeanVictor0/portifolio
-- 🔭 Atualmente procuro estagio ou vaga de junior
-- 🌱 Atualmente estudo java e javascript back end
-- 👯 Contato: jeanvdsroque@gmail.com
+ 
